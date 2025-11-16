@@ -11,3 +11,12 @@ Ezen tanulók aztán megjelennek egy táblázatban, ahol név, azonosító, szak
 Jobb egérkattintás bármelyik tanulóra egy menüt hoz elő, amiben két opció van: jegyek megtekintése, tanuló törlése
 
 A jegyek megtekintésére kattintva a "Jegyek szerkesztése" oldal elérhetővé válik, ahol a tanuló szakához társított tantárgyakhoz rendelt jegyek láthatók egy táblázatban, melléjük egy indok és dátum rendelve. Jobb egérkattintás után megjelenő menüvel törölhetők a jegyek is.
+
+# Modulok és függvények
+## Modulok
+main.py - Főmodul
+adatbazis.py - SQLite adatbázis
+adatkezeles.py - Export és import CSV fájlba
+Diak_MMR.py - Diák osztály
+interface.py - Felhasználói felület
+tantargyak.py - Konstant, előre feltöltött szakok és tantárgyak
