@@ -14,9 +14,9 @@ A jegyek megtekintésére kattintva a "Jegyek szerkesztése" oldal elérhetővé
 
 # Modulok és függvények
 ## Modulok
-main.py - Főmodul
-adatbazis.py - SQLite adatbázis
-adatkezeles.py - Export és import CSV fájlba
-Diak_MMR.py - Diák osztály
-interface.py - Felhasználói felület
-tantargyak.py - Konstant, előre feltöltött szakok és tantárgyak
+main.py - Főmodul\
+adatbazis.py - SQLite adatbázis\
+adatkezeles.py - Export és import CSV fájlba\
+Diak_MMR.py - Diák osztály\
+interface.py - Felhasználói felület\
+tantargyak.py - Konstant, előre feltöltött szakok és tantárgyak\
