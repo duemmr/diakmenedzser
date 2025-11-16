@@ -33,7 +33,7 @@ keres_diak_azonosito_alapjan_MMR
 adatok_exportalasa_MMR\
 adatok_importalasa_MMR
 
-**interface.py - Felhasználói felület**\n
+**interface.py - Felhasználói felület**\
 export_adatok\
 import_adatok\
 letrehoz_menu\
