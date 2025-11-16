@@ -10,7 +10,7 @@ Ezen tanulók aztán megjelennek egy táblázatban, ahol név, azonosító, szak
 
 Jobb egérkattintás bármelyik tanulóra egy menüt hoz elő, amiben két opció van: jegyek megtekintése, tanuló törlése
 
-A jegyek megtekintésére kattintva a "Jegyek szerkesztése" oldal elérhetővé válik, ahol a tanuló szakához társított tantárgyakhoz rendelt jegyek láthatók egy táblázatban, melléjük egy indok és dátum rendelve. Jobb egérkattintás után megjelenő menüvel törölhetők a jegyek is.
+A jegyek megtekintésére kattintva a "Jegyek szerkesztése" oldal elérhetővé válik, ahol a tanuló szakához társított tantárgyak találhatók meg egy táblázatban névvel, tanuló átlagával, és tárgy átlagával feltüntetve. Emellett egy másik táblázatban a kiválasztott tantárgyhoz rendelt jegyek láthatók, melléjük egy indok és dátum rendelve. Jobb egérkattintás után megjelenő menüvel törölhetők a jegyek is.
 
 # Modulok és függvények
 **main.py - Főmodul**
