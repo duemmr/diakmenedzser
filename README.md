@@ -33,7 +33,7 @@ keres_diak_azonosito_alapjan_MMR
 adatok_exportalasa_MMR\
 adatok_importalasa_MMR
 
-**interface.py - Felhasználói felület**
+**interface.py - Felhasználói felület**\n
 export_adatok\
 import_adatok\
 letrehoz_menu\
@@ -49,6 +49,6 @@ jegy_torlese\
 vissza_a_fooldalra\
 frissit_diakok_listaja\
 hozzaad_diak\
-torol_diak\
+torol_diak
 
 **tantargyak.py - Konstant, előre feltöltött szakok és tantárgyak**
