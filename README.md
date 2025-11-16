@@ -51,4 +51,4 @@ frissit_diakok_listaja\
 hozzaad_diak\
 torol_diak
 
-**tantargyak.py - Konstant, előre feltöltött szakok és tantárgyak**
+**tantargyak.py - Konstans, előre feltöltött szakok és tantárgyak**
