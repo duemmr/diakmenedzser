@@ -372,8 +372,8 @@ class Interface:
 
         for diak in self.diakok:
             atlag = atlag_diaknak_MMR(diak.azonosito)
-      
-            self.tree.insert("", tk.END, values=(diak.nev, diak.azonosito, diak.szak, f"{atlag:.2f}"))
+        
+            self.tree.insert("", tk.END, values=(diak.nev, diak.azonosito, diak.szak, atlag))
 
     def hozzaad_diak(self):
         nev = self.nev_entry.get()

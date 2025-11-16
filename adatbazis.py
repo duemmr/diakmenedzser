@@ -126,7 +126,7 @@ def atlag_diaknak_MMR(azonosito):
     sor = cursor.fetchone()
     conn.close()
 
-    return sor['atlag'] if sor and sor['atlag'] is not None else 0.0
+    return sor['atlag'] if sor and sor['atlag'] is not None else "N/A"
 
 def atlag_diaknak_tantargyra_MMR(azonosito, tantargy_nev):
     conn = adatbazis_kapcsolodas()
