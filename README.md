@@ -13,6 +13,8 @@ Jobb egérkattintás bármelyik tanulóra egy menüt hoz elő, amiben két opci�
 A jegyek megtekintésére kattintva a "Jegyek szerkesztése" oldal elérhetővé válik, ahol a tanuló szakához társított tantárgyak találhatók meg egy táblázatban névvel, tanuló átlagával, és tárgy átlagával feltüntetve. Emellett egy másik táblázatban a kiválasztott tantárgyhoz rendelt jegyek láthatók, melléjük egy indok és dátum rendelve. Jobb egérkattintás után megjelenő menüvel törölhetők a jegyek is.
 
 # Modulok és függvények
+**tkinter**, **sqlite**, **csv**
+
 **main.py - Főmodul**
 
 **adatbazis.py - SQLite adatbázis**\
